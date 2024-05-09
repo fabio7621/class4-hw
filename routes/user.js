@@ -1,4 +1,2 @@
-const express = require('express');
-const errorHandle = require('../errorHandle')
+const express = require("express");
 const router = express.Router();
-
